@@ -7,15 +7,15 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    title: `Boahs blog`,
+    description: `A blog written in react utilizing gatsby`,
     copyrights: '',
-    author: `@panr`,
+    author: `Boahs`,
     logo: {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
+    logoText: 'cd ./Boahs ...',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 2,
