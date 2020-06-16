@@ -1,23 +1,56 @@
 ---
 title: "About"
-date: "2018-07-19"
-author: "Radek"
+date: "2020-06-16"
+author: "Boahs"
 path: "/about"
 ---
 
 ## Hi there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+My name is Sha and I'm the developer of this website. I made it blog about new concepts I learn, and to share those concepts with you.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I spend the majority of my time programming. I enjoy doing personal probjects that challenge me to expand and further my knowledge of programming. I'm typically writting anything, and everything in javascript but I do dabble from time to time in other languages. I'm also messing around with frameworks all the time - a couple of my favorite larger frameworks I've discovered would be [React](https://reactjs.org/), and [Node](https://nodejs.org/en/). 
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+Also something that has always intrigued my interest is server management! I love being in full control of my own personal server, and it's awesome to learn how to navigate the terminal properly. If the end of the world ever comes and all we're left with is barebone terminals w/ linux then I'll be ready. 
 
-The starter includes:
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
 
-So, there you have it... enjoy!
+
+--------------------------------------------------------------------------------
+# Qualifications and skills
+--------------------------------------------------------------------------------
+### Languages
+--------------------------------------------------------------------------------
+* [JavaScript](https://www.javascript.com/)
+* [CSS](https://www.w3schools.com/css/)
+* [Python](https://www.python.org/)
+* [Sql](https://www.w3schools.com/sql/sql_intro.asp)
+* [Ruby](https://www.ruby-lang.org/en/)
+
+--------------------------------------------------------------------------------
+### Frameworks & Libraries
+--------------------------------------------------------------------------------
+* [React](https://reactjs.org/)
+* [Gatsby](https://www.gatsbyjs.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Hugo](https://gohugo.io/)
+* [Ruby on rails](https://rubyonrails.org/)
+
+--------------------------------------------------------------------------------
+### Server envirements
+--------------------------------------------------------------------------------
+* [NodeJS](https://nodejs.org/en/)
+* [Apache](https://httpd.apache.org/)
+
+--------------------------------------------------------------------------------
+### Text editor & IDE 
+--------------------------------------------------------------------------------
+* [VSCode](https://code.visualstudio.com/)
+* [Visual Studio](https://visualstudio.microsoft.com/)
+
+--------------------------------------------------------------------------------
+### Package managers
+--------------------------------------------------------------------------------
+* [Yarn](https://classic.yarnpkg.com/en/)
+* [NPM](https://www.npmjs.com/)
+* [apt](https://wiki.debian.org/Apt)
