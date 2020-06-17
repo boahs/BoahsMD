@@ -2,10 +2,10 @@
 title: "Loops...Loops...Loops"
 path: "/Loops"
 date: "2020-06-17"
-coverImage: "../images/Gatsby_Logo.png"
+coverImage: ""
 author: "Boahs"
 excerpt: '"In JavaScript we have many different types of loops. Today we'll look at the for...of statement"'
-tags: ["js", "loops","learning"]
+tags: ["js", "loops", "learning"]
 ---
 ## Understanding loops 
 
