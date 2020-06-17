@@ -21,6 +21,7 @@ Gatsby takes markdown files, and generates HTML files when the user loads your c
 
 ```powershell 
 npm install -g gatsby-cli
+```
 
 ```powershell
 
