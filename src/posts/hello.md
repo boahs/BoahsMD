@@ -44,7 +44,7 @@ At this point Gatsby will start a hot-reloading development environment that is 
 
 ### Cool right?
 
-The third, and final(so far) iteration is what you're looking at now. This'll be the first time I've actually bothered to write blog logs but I've been yearning for a while now to start posting, and conceptualizing the new things I learn somewhere, and I guess what better place would be my own little area? You might see 5-6 random problems I've solved on [codewars](https://www.codewars.com/users/boahs), or an article on React. It'll just depend on what I'm doing that given day!
+The third, and final(so far) iteration is what you're looking at now. This'll be the first time I've actually bothered to write logs but I've been yearning for a while now to start posting, and conceptualizing the new things I learn somewhere, and I guess what better place would be my own little area? You might see 5-6 random problems I've solved on [codewars](https://www.codewars.com/users/boahs), or an article on React. It'll just depend on what I'm doing that given day!
 
 Now we'll go over some of the more interesting things I've integrated into the website. 
 
