@@ -1,6 +1,6 @@
 ---
 title: "First log jitters..."
-path: "/hello"
+path: "/First_log"
 date: "2020-06-16"
 coverImage: "../images/Gatsby_Logo.png"
 author: "Boahs"
@@ -13,7 +13,7 @@ The third overhaul for my website has been deployed! Behold the creation.
 
 After long consideration of wanting to completely overhaul my personal portfolio website I decided to finally take a plunge into the gorge, and I'm very satisfied with what I've accomplished with this new design! 
 
-The first iteration of [my website](https://boahs.info/) consited of as a simple SPA that used some fancy CSS, and your basic HTML. I had it set up to present four of my latest projects, and a little bio/about me. 
+The first iteration of [my website](https://boahs.info/) consisted of as a simple SPA that used some fancy CSS, and your basic HTML. I had it set up to present four of my latest projects, and a little bio/about me. 
 
 Taking things to the next level with the second iteration I decided to use [gatsbyJS](https://www.gatsbyjs.org/) for the generation and [graphQL](https://graphql.org/) as my database. Gatsby has a lot going on for it - it's a little more complicated to use than your basic static site generators such as [HUGO](https://gohugo.io/), and [Bootstrap](https://getbootstrap.com/) but once you start to understand the gatsby CLI things start rolling quite quickly.
 
