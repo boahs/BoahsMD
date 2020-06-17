@@ -1,5 +1,5 @@
 ---
-title: "Hello Friend"
+title: "First log jitters..."
 path: "/hello"
 date: "2020-06-16"
 coverImage: "../images/Gatsby_Logo.png"
