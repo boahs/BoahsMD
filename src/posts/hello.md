@@ -19,24 +19,24 @@ Taking things to the next level with the second iteration I decided to use [gats
 
 Gatsby takes markdown files, and generates HTML files when the user loads your content resulting in very fast load times, and great SEO overall. To get started with gatsby just install the cli
 
-``` 
+```powershell 
 npm install -g gatsby-cli
 
-```
+```powershell
 
 Create your new site 
 
-```
+```powershell
 gatsby new gatsby-site
 ```
 
 Change directories into site folder
-```
+```powershell
 cd gatsby-site
 ```
 
 Start development server
-```
+```powershell
 gatsby develop
 ```
 

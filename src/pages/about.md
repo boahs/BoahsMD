@@ -15,7 +15,7 @@ Also something that has always intrigued my interest is server management! I lov
 
  Follow or contact me on various platforms below!
 
- | [GitHub](https://github.com/boahs) | [Youtube](https://www.youtube.com/user/BoahsLoL) | [linkedIn](https://www.linkedin.com/in/sha-adkins-694496187/) | [Twitch](https://www.twitch.tv/boahs) | [CodeWars](https://www.codewars.com/users/boahs) | 
+ | [GitHub](https://github.com/boahs) | [Youtube](https://www.youtube.com/user/BoahsLoL) | [linkedIn](https://www.linkedin.com/in/sha-adkins-694496187/) | [Twitch](https://www.twitch.tv/boahs) | [CodeWars](https://www.codewars.com/users/boahs) | <a href="mailto:boahs@boahs.info">Boahs@boahs.info</a> |
 
 
 
