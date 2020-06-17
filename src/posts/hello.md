@@ -24,19 +24,17 @@ npm install -g gatsby-cli
 ```
 
 ```powershell
-
-Create your new site 
-
-```powershell
 gatsby new gatsby-site
 ```
 
 Change directories into site folder
+
 ```powershell
 cd gatsby-site
 ```
 
 Start development server
+
 ```powershell
 gatsby develop
 ```
