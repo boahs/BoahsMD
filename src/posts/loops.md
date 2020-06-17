@@ -4,7 +4,7 @@ path: "/Loops"
 date: "2020-06-17"
 coverImage: ""
 author: "Boahs"
-excerpt: '"In JavaScript we have many different types of loops. Today we'll look at the for...of statement"'
+excerpt: '"In JavaScript we have many different types of loops. Today we will look at the for...of statement"'
 tags: ["js", "fundamentals", "loops", "learning"]
 ---
 ## Understanding loops 
