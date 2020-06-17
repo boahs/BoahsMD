@@ -18,8 +18,8 @@ module.exports = {
     logoText: 'cd ./Boahs ...',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 2,
-    menuMoreText: 'Show more',
+    showMenuItems: 3,
+    menuMoreText: '',
     mainMenu: [
       {
         title: 'About',
@@ -28,10 +28,6 @@ module.exports = {
       {
         title: 'Showcase',
         path: '/showcase',
-      },
-      {
-        title: 'Example',
-        path: '/example',
       },
     ],
   },

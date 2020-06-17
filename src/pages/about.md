@@ -13,6 +13,9 @@ I spend the majority of my time programming. I enjoy doing personal probjects th
 
 Also something that has always intrigued my interest is server management! I love being in full control of my own personal server, and it's awesome to learn how to navigate the terminal properly. If the end of the world ever comes and all we're left with is barebone terminals w/ linux then I'll be ready. 
 
+ Follow or contact me on various platforms below!
+
+ | [GitHub](https://github.com/boahs) | [Youtube](https://www.youtube.com/user/BoahsLoL) | [linkedIn](https://www.linkedin.com/in/sha-adkins-694496187/) | [Twitch](https://www.twitch.tv/boahs) | [CodeWars](https://www.codewars.com/users/boahs) | 
 
 
 
