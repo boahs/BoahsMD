@@ -1,5 +1,5 @@
 ---
-title: "Understanding Loops"
+title: "Understanding for Loops"
 path: "/Loops"
 date: "2020-06-17"
 coverImage: ""
@@ -7,7 +7,7 @@ author: "Boahs"
 excerpt: '"In JavaScript we have many different types of loops. Today we will look at the for...of statement"'
 tags: ["js", "fundamentals", "loops", "learning"]
 ---
-## Understanding loops 
+## Understanding for loops 
 
 ```javascript
 for (let i=0; i<5;i++){
