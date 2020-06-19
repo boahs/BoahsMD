@@ -61,6 +61,9 @@ console.log(arr);
 ```
 The pop() method will remove the last element of an array, and return that element. This method will change the length of your array. If you call pop(); on an empty array, it should return undefined. You'll see in the next example the .shift() and .pop() methods have similar behavior. 
 
+
+## .shift()
+
 ```javascript
 let arr = ['Boahs', 'Bob', 'Torbjorn']
 console.log(arr);
@@ -74,7 +77,7 @@ The shift() method is removing the zeroeth index element, and returning it. I di
 
 
 
-
+## .unshift()
 Finally we get to the .unshift() method! This method works exactly like .push(), but instead of adding an element to the end of an array, .unshift() is adding a new element to the beginning of an array. If you're appending multiple elements then you can add those inside the parameters, and they're inserted as a cunk at the beginning of the array.
 
 ```javascript
@@ -86,6 +89,7 @@ console.log(arr);
 //expected output: (6) ["Pears", "Donuts", "Pie", "Lemons", "Pizza", "Peaches"]
 ```
 
+## conclusion
 
 Hopefully this helps out anyone out their reading this! It's easy to remember all four of these methods when you realize that .unshift(), and .shift() are best friends with .push(), and .pop() - The only difference is which part of the array is being manlipulated! 
 
