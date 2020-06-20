@@ -15,7 +15,7 @@ After long consideration of wanting to completely overhaul my personal portfolio
 
 The first iteration of [my website](https://boahs.info/) consisted of as a simple SPA that used some fancy CSS, and your basic HTML. I had it set up to present four of my latest projects, and a little bio/about me. 
 
-Taking things to the next level with the second iteration I decided to use [gatsbyJS](https://www.gatsbyjs.org/) for the generation and [graphQL](https://graphql.org/) as my database. Gatsby has a lot going on for it - it's a little more complicated to use than your basic static site generators such as [HUGO](https://gohugo.io/), and [Bootstrap](https://getbootstrap.com/) but once you start to understand the gatsby CLI things start rolling quite quickly.
+Taking things to the next level with the second iteration I decided to use [gatsbyJS](https://www.gatsbyjs.org/) & [graphQL](https://graphql.org/). Gatsby has a lot going on for it - it's a little more complicated to use than your basic static site generators such as [HUGO](https://gohugo.io/), and [Bootstrap](https://getbootstrap.com/) but once you start to understand the gatsby CLI things start rolling quite quickly.
 
 Gatsby takes markdown files, and generates HTML files when the user loads your content resulting in very fast load times, and great SEO overall. To get started with gatsby just install the cli
 
