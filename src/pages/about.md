@@ -5,7 +5,7 @@ author: "Boahs"
 path: "/about"
 ---
 
-## Hi there
+## <center>Hi there</center>
 
 <center>My name is Sha and I'm the developer of this website.</center>
 
