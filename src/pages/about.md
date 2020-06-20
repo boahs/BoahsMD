@@ -9,7 +9,7 @@ path: "/about"
 
 My name is Sha and I'm the developer of this website. I made it blog about new concepts I learn, and to share those concepts with you.
 
-I enjoy doing personal probjects that challenge me to expand and further my knowledge of programming. I'm typically writing anything, and everything in javascript but I do dabble from time to time in other languages. I'm also messing around with frameworks all the time - a couple of my favorite larger frameworks I've discovered would be [React](https://reactjs.org/), and [Node](https://nodejs.org/en/). 
+I enjoy doing personal projects that challenge me to expand and further my knowledge of programming. I'm typically writing anything, and everything in javascript but I do dabble from time to time in other languages. I'm also messing around with frameworks all the time - a couple of my favorite larger frameworks I've discovered would be [React](https://reactjs.org/), and [Node](https://nodejs.org/en/). 
 
 Also something that has always intrigued my interest is server management! I love being in full control of my own personal server, and it's awesome to learn how to navigate the terminal properly. If the end of the world ever comes and all we're left with is barebone terminals w/ linux then I'll be ready. 
 
