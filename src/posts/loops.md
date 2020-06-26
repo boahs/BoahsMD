@@ -7,7 +7,7 @@ author: "Boahs"
 excerpt: '"In JavaScript we have many different types of loops. Today we will look at the for...of statement"'
 tags: ["js", "fundamentals", "loops", "learning"]
 ---
-## Understanding for loops 
+## Understanding for loop 
 
 ```javascript
 for (let i=0; i<5;i++){
