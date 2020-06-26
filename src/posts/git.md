@@ -214,4 +214,4 @@ Above we can see we've pulled the branch, and merged our changes with the master
 We've learned command line commands such as ```ls``` and ```cd``` to navigate our way around the terminal, and ```nano``` to create new files. We've also learned how to create a repo and clone a repo to edit locally on our machine, and also how to clone specific branches of that repo with the ```git clone``` command, and ```git clone -branch <branch name>``` command. When we ran ```git init``` inside our ```C:/Sample_directory/``` directory while also realizing we can ```git add``` to add our new files/code to the repo. Well done today!
 
 
-
+**— Boahs**
