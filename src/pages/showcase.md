@@ -6,6 +6,7 @@ path: "/showcase"
 ---
 
 * [Easy IMDB](https://github.com/boahs/EasyIMDb) - A chrome extension to quickly parse & retrieve information from the same page.
+* [Drum Machine](https://github.com/boahs/Drum_Machine) - A drum machine utilizing vanilla JS event listeners
 * [TicTacToe](https://github.com/boahs/react_tttgame) - TicTacToe wrote in react.
 * [Hugo Project](https://softtech.systems/) - Website written for a company utilizing hugo.
 * [Gatsby project](https://boahs.info/) - Current personal website utilizing gatsbyJS.
