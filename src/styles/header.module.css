@@ -7,7 +7,7 @@
   padding: 20px;
 
   :global .dark-theme :local & {
-    background: #252627;
+    background: rgba(48, 5, 81, 0.25);
   }
 
   a {
@@ -43,7 +43,7 @@
   display: inline-block;
   width: 10px;
   height: 1rem;
-  background: #fe5186;
+  background: #b4af0f75;
   margin-left: 5px;
   border-radius: 1px;
   animation: cursor 1s infinite;
@@ -52,6 +52,7 @@
 .text,
 .mark {
   font-size: 18px;
+  color: #e30b005e
 }
 
 .right {
