@@ -52,7 +52,7 @@
 .text,
 .mark {
   font-size: 18px;
-  color: #e30b005e
+  color: rgba(165, 232, 7, 0.77);
 }
 
 .right {
