@@ -43,7 +43,7 @@
   display: inline-block;
   width: 10px;
   height: 1rem;
-  background: #b4af0f75;
+  background: rgba(12, 99, 16, 0.51);
   margin-left: 5px;
   border-radius: 1px;
   animation: cursor 1s infinite;
@@ -52,7 +52,7 @@
 .text,
 .mark {
   font-size: 18px;
-  color: rgba(165, 232, 7, 0.77);
+  color: #777
 }
 
 .right {
