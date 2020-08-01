@@ -8,7 +8,7 @@ path: "/showcase"
 - [Easy IMDB](https://github.com/boahs/EasyIMDb) - A chrome extension to quickly parse & retrieve information from the same page.
 - [Codewar Solutions](https://github.com/boahs/CodeWarSolutions) - Updated almost everyday. Various completed codewar katas.
 - [Edabit Solutions](https://github.com/boahs/Edabit-Solutions) - Updated almost everyday. Various completed edabit challenges.
-- [WareShare](https://boahs.github.io/) - CSS/Flexbox for a school project. The theme was creating a airbnb mockup for people to rent technology out.
+- [WareShare](https://boahs.github.io/) - CSS/Flexbox for a school project. Mockup website for renting out your tech.
 - [Drum Machine](https://github.com/boahs/Drum_Machine) - A drum machine utilizing vanilla JS event listeners
 - [TicTacToe](https://github.com/boahs/react_tttgame) - TicTacToe wrote in react.
 - [Portfolio](https://boahs.github.io/portfolio/) - A portfolio-like layout built using HTML & CSS ONLY(Flexbox)
