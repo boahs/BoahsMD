@@ -13,8 +13,7 @@ Also something that has always intrigued my interest is server management! I lov
 
 Follow or contact me on various platforms below!
 
-<div align="center"> | <a href="https://github.com/boahs">GitHub</a> | <a href="https://www.youtube.com/user/BoahsLoL">Youtube</a> | <a href="https://www.linkedin.com/in/sha-adkins">LinkedIn</a>  | <a href="https://edabit.com/user/NXNrEBsvNwtNbXDKE"> Edabit | </a> <a href="mailto:boahs@boahs.info">Boahs@Boahs.info<a> |
-<a href="https://www.codewars.com/users/boahs">CodeWars</a> | </div>
+<div align="center"> | <a href="https://github.com/boahs">GitHub</a> | <a href="https://www.youtube.com/user/BoahsLoL">Youtube</a> | <a href="https://www.linkedin.com/in/sha-adkins">LinkedIn</a> | <a href="https://edabit.com/user/NXNrEBsvNwtNbXDKE">Edabit</a> | <a href="mailto:boahs@boahs.info">Boahs@Boahs.info<a> | <a href="https://www.codewars.com/users/boahs">CodeWars</a> | </div>
 
 ---
 
