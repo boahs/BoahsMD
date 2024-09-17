@@ -1,0 +1,3 @@
+[build]
+  # Specify a range for the Node.js version
+  environment = { NODE_VERSION = ">=15.0.0" }
