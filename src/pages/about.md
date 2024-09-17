@@ -5,7 +5,7 @@ author: "Boahs"
 path: "/about"
 ---
 
-<center>My name is Sha and I'm the developer of this website.</center>
+<center>My name is Boahs and I'm the developer of this website.</center>
 
 I enjoy doing personal projects that challenge me to expand and further my knowledge of programming. I'm typically writing anything, and everything in javascript but I do dabble from time to time in other languages. I'm also messing around with frameworks all the time - a couple of my favorite larger frameworks I've discovered would be [React](https://reactjs.org/), and [Node](https://nodejs.org/en/).
 
@@ -13,7 +13,7 @@ Also something that has always intrigued my interest is server management! I lov
 
 Follow or contact me on various platforms below!
 
-<div align="center"> | <a href="https://github.com/boahs">GitHub</a> | <a href="https://www.linkedin.com/in/sha-adkins">LinkedIn</a> | <a href="https://edabit.com/user/NXNrEBsvNwtNbXDKE">Edabit</a> | <a href="https://www.codewars.com/users/boahs">CodeWars</a> | <a href="mailto:boahs@boahs.info">Boahs@Boahs.info<a> | </div>
+<div align="center"> | <a href="https://github.com/boahs">GitHub</a> | <a href="https://edabit.com/user/NXNrEBsvNwtNbXDKE">Edabit</a> | <a href="https://www.codewars.com/users/boahs">CodeWars</a> | <a href="mailto:boahs@boahs.info">Boahs@Boahs.info<a> | </div>
 
 ---
 

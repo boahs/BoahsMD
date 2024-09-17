@@ -5,7 +5,7 @@ author: "Boahs"
 path: "/showcase"
 ---
 
-- [Easy IMDB](https://github.com/boahs/EasyIMDb) - A chrome extension to quickly parse & retrieve information from the same page.
+- [Easy IMDB](https://chromewebstore.google.com/detail/easy-imdb/edkkkggfhmoogadkmjndmlfhlmdainam) - A chrome extension to quickly parse & retrieve information from the same page.
 - [Codewar Solutions](https://github.com/boahs/CodeWarSolutions) - Updated almost everyday. Various completed codewar katas.
 - [Edabit Solutions](https://github.com/boahs/Edabit-Solutions) - Updated almost everyday. Various completed edabit challenges.
 - [SPA instagram](https://reverent-euclid-3ca94e.netlify.app/) - Mockup of SPA built with react
